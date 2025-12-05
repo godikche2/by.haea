@@ -226,7 +226,7 @@ body {
     .profile-info {
         gap: 20px;
         padding-top: 0; /* 상단 패딩 제거 */
-        padding-left: 70px;
+        padding-left: 50px;
     }
 
     .tools p {
@@ -261,5 +261,6 @@ body {
     .project-grid {
         gap: 50px; /* 프로젝트 이미지 간격 조정 */
     }
+
 
 }
