@@ -89,7 +89,7 @@ body {
 
 
 .tit {
-       padding: 100px 400px 0;
+       display:none;
 }
 
 
@@ -264,3 +264,4 @@ body {
 
 
 }
+
